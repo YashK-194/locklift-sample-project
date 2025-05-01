@@ -1,0 +1,722 @@
+{
+  "map": {
+    "2b2906ac6fa5d55f975ab66b694b8b37589f389c4c8bade339a24dedfcccac62": {
+      "0": {
+        "filename": "../contracts/HelloWorld.tsol",
+        "line": 8
+      }
+    },
+    "2db437237564662db45c8789e8a841f56341e9acdffe7f182f4670eb5f994495": {
+      "0": {
+        "filename": "HelloWorld.code",
+        "line": 213
+      },
+      "8": {
+        "filename": "HelloWorld.code",
+        "line": 214
+      },
+      "56": {
+        "filename": "HelloWorld.code",
+        "line": 215
+      },
+      "64": {
+        "filename": "HelloWorld.code",
+        "line": 216
+      },
+      "80": {
+        "filename": "HelloWorld.code",
+        "line": 219
+      },
+      "88": {
+        "filename": "HelloWorld.code",
+        "line": 220
+      },
+      "136": {
+        "filename": "HelloWorld.code",
+        "line": 221
+      },
+      "144": {
+        "filename": "HelloWorld.code",
+        "line": 222
+      }
+    },
+    "34c12b2065c58d0ebd28d1ba7aa14330f23d56e6a69afd96747f14a32caceeb3": {
+      "0": {
+        "filename": "HelloWorld.code",
+        "line": 159
+      },
+      "16": {
+        "filename": "HelloWorld.code",
+        "line": 160
+      },
+      "24": {
+        "filename": "HelloWorld.code",
+        "line": 161
+      },
+      "40": {
+        "filename": "HelloWorld.code",
+        "line": 162
+      },
+      "56": {
+        "filename": "HelloWorld.code",
+        "line": 163
+      },
+      "72": {
+        "filename": "HelloWorld.code",
+        "line": 164
+      },
+      "80": {
+        "filename": "HelloWorld.code",
+        "line": 165
+      },
+      "96": {
+        "filename": "HelloWorld.code",
+        "line": 168
+      },
+      "112": {
+        "filename": "HelloWorld.code",
+        "line": 169
+      },
+      "120": {
+        "filename": "HelloWorld.code",
+        "line": 170
+      },
+      "136": {
+        "filename": "HelloWorld.code",
+        "line": 171
+      },
+      "152": {
+        "filename": "HelloWorld.code",
+        "line": 172
+      },
+      "168": {
+        "filename": "HelloWorld.code",
+        "line": 173
+      },
+      "176": {
+        "filename": "HelloWorld.code",
+        "line": 174
+      },
+      "192": {
+        "filename": "HelloWorld.code",
+        "line": 175
+      },
+      "200": {
+        "filename": "HelloWorld.code",
+        "line": 176
+      },
+      "216": {
+        "filename": "HelloWorld.code",
+        "line": 177
+      },
+      "224": {
+        "filename": "HelloWorld.code",
+        "line": 178
+      },
+      "232": {
+        "filename": "HelloWorld.code",
+        "line": 179
+      },
+      "248": {
+        "filename": "HelloWorld.code",
+        "line": 180
+      },
+      "256": {
+        "filename": "HelloWorld.code",
+        "line": 181
+      },
+      "264": {
+        "filename": "HelloWorld.code",
+        "line": 183
+      },
+      "272": {
+        "filename": "HelloWorld.code",
+        "line": 184
+      },
+      "280": {
+        "filename": "HelloWorld.code",
+        "line": 185
+      },
+      "296": {
+        "filename": "HelloWorld.code",
+        "line": 187
+      },
+      "304": {
+        "filename": "HelloWorld.code",
+        "line": 188
+      },
+      "320": {
+        "filename": "HelloWorld.code",
+        "line": 189
+      },
+      "336": {
+        "filename": "HelloWorld.code",
+        "line": 191
+      },
+      "344": {
+        "filename": "HelloWorld.code",
+        "line": 192
+      },
+      "360": {
+        "filename": "HelloWorld.code",
+        "line": 193
+      },
+      "368": {
+        "filename": "HelloWorld.code",
+        "line": 194
+      },
+      "384": {
+        "filename": "HelloWorld.code",
+        "line": 196
+      },
+      "392": {
+        "filename": "HelloWorld.code",
+        "line": 197
+      },
+      "408": {
+        "filename": "HelloWorld.code",
+        "line": 198
+      },
+      "416": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "432": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "440": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "448": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "464": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "472": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "488": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "512": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "520": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "560": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "568": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "576": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "592": {
+        "filename": "stdlib.sol",
+        "line": 63
+      },
+      "608": {
+        "filename": "HelloWorld.code",
+        "line": 200
+      },
+      "624": {
+        "filename": "HelloWorld.code",
+        "line": 201
+      },
+      "632": {
+        "filename": "HelloWorld.code",
+        "line": 202
+      },
+      "648": {
+        "filename": "HelloWorld.code",
+        "line": 203
+      },
+      "656": {
+        "filename": "HelloWorld.code",
+        "line": 204
+      },
+      "672": {
+        "filename": "HelloWorld.code",
+        "line": 205
+      },
+      "688": {
+        "filename": "HelloWorld.code",
+        "line": 206
+      },
+      "696": {
+        "filename": "HelloWorld.code",
+        "line": 207
+      },
+      "712": {
+        "filename": "HelloWorld.code",
+        "line": 210
+      }
+    },
+    "42aa676d16d19f95a85a3a8f6b8578c96167a12005f5a454dcdc62d5181d3cf4": {
+      "0": {
+        "filename": "HelloWorld.code",
+        "line": 4
+      },
+      "8": {
+        "filename": "HelloWorld.code",
+        "line": 5
+      },
+      "24": {
+        "filename": "HelloWorld.code",
+        "line": 6
+      },
+      "32": {
+        "filename": "HelloWorld.code",
+        "line": 7
+      },
+      "48": {
+        "filename": "HelloWorld.code",
+        "line": 10
+      },
+      "64": {
+        "filename": "HelloWorld.code",
+        "line": 11
+      },
+      "80": {
+        "filename": "HelloWorld.code",
+        "line": 12
+      },
+      "88": {
+        "filename": "HelloWorld.code",
+        "line": 13
+      },
+      "104": {
+        "filename": "HelloWorld.code",
+        "line": 14
+      },
+      "120": {
+        "filename": "HelloWorld.code",
+        "line": 17
+      }
+    },
+    "60488e96384d55db5809d3be340ce676908c99e02e0f6a89a307f1376c1ceb17": {
+      "0": {
+        "filename": "HelloWorld.code",
+        "line": 101
+      },
+      "16": {
+        "filename": "HelloWorld.code",
+        "line": 102
+      },
+      "32": {
+        "filename": "HelloWorld.code",
+        "line": 103
+      },
+      "40": {
+        "filename": "HelloWorld.code",
+        "line": 104
+      },
+      "56": {
+        "filename": "HelloWorld.code",
+        "line": 105
+      },
+      "72": {
+        "filename": "HelloWorld.code",
+        "line": 106
+      },
+      "88": {
+        "filename": "HelloWorld.code",
+        "line": 107
+      },
+      "96": {
+        "filename": "HelloWorld.code",
+        "line": 108
+      }
+    },
+    "73867e37ec1ffb9ecb087a37d71892215b0b805a73c127da219a28729084e2e0": {
+      "0": {
+        "filename": "<internal-selector>",
+        "line": 1
+      },
+      "24": {
+        "filename": "<internal-selector>",
+        "line": 2
+      }
+    },
+    "97758043449f3d775f624a8f993233e0660643a240f902f5328801336ccbb64b": {
+      "0": {
+        "filename": "HelloWorld.code",
+        "line": 127
+      },
+      "16": {
+        "filename": "HelloWorld.code",
+        "line": 128
+      },
+      "24": {
+        "filename": "HelloWorld.code",
+        "line": 129
+      },
+      "40": {
+        "filename": "HelloWorld.code",
+        "line": 130
+      },
+      "56": {
+        "filename": "HelloWorld.code",
+        "line": 131
+      },
+      "72": {
+        "filename": "HelloWorld.code",
+        "line": 132
+      },
+      "80": {
+        "filename": "HelloWorld.code",
+        "line": 133
+      },
+      "88": {
+        "filename": "HelloWorld.code",
+        "line": 134
+      },
+      "112": {
+        "filename": "HelloWorld.code",
+        "line": 135
+      },
+      "136": {
+        "filename": "HelloWorld.code",
+        "line": 136
+      },
+      "144": {
+        "filename": "HelloWorld.code",
+        "line": 137
+      },
+      "152": {
+        "filename": "HelloWorld.code",
+        "line": 138
+      },
+      "168": {
+        "filename": "HelloWorld.code",
+        "line": 139
+      },
+      "184": {
+        "filename": "HelloWorld.code",
+        "line": 143
+      },
+      "192": {
+        "filename": "HelloWorld.code",
+        "line": 144
+      },
+      "216": {
+        "filename": "HelloWorld.code",
+        "line": 145
+      },
+      "232": {
+        "filename": "HelloWorld.code",
+        "line": 146
+      },
+      "240": {
+        "filename": "HelloWorld.code",
+        "line": 147
+      },
+      "256": {
+        "filename": "HelloWorld.code",
+        "line": 151
+      },
+      "264": {
+        "filename": "HelloWorld.code",
+        "line": 152
+      },
+      "280": {
+        "filename": "HelloWorld.code",
+        "line": 155
+      }
+    },
+    "a31a2fee7d6f1cad601c2ce2f799ab8bf9b479ee10a605a9169d6685419e0261": {
+      "0": {
+        "filename": "../contracts/HelloWorld.tsol",
+        "line": 8
+      }
+    },
+    "b542fdb7ecca14b60f469dee909a7256fbe611fc5ed9b651525ac4b77c85b11e": {
+      "0": {
+        "filename": "<entry-selector>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<entry-selector>",
+        "line": 2
+      },
+      "24": {
+        "filename": "<entry-selector>",
+        "line": 3
+      },
+      "32": {
+        "filename": "<entry-selector>",
+        "line": 4
+      },
+      "48": {
+        "filename": "<entry-selector>",
+        "line": 5
+      },
+      "56": {
+        "filename": "<entry-selector>",
+        "line": 6
+      },
+      "72": {
+        "filename": "<entry-selector>",
+        "line": 7
+      },
+      "88": {
+        "filename": "<entry-selector>",
+        "line": 8
+      },
+      "96": {
+        "filename": "<entry-selector>",
+        "line": 9
+      },
+      "112": {
+        "filename": "<entry-selector>",
+        "line": 10
+      },
+      "128": {
+        "filename": "<entry-selector>",
+        "line": 11
+      }
+    },
+    "b6f27d187f26bd046272f9f471e9ae01f051b960e654874ac3fb0749c691c4c6": {
+      "0": {
+        "filename": "HelloWorld.code",
+        "line": 79
+      },
+      "16": {
+        "filename": "HelloWorld.code",
+        "line": 80
+      },
+      "24": {
+        "filename": "HelloWorld.code",
+        "line": 81
+      },
+      "40": {
+        "filename": "HelloWorld.code",
+        "line": 82
+      },
+      "56": {
+        "filename": "HelloWorld.code",
+        "line": 83
+      },
+      "72": {
+        "filename": "HelloWorld.code",
+        "line": 84
+      },
+      "80": {
+        "filename": "HelloWorld.code",
+        "line": 85
+      },
+      "96": {
+        "filename": "HelloWorld.code",
+        "line": 86
+      },
+      "104": {
+        "filename": "HelloWorld.code",
+        "line": 87
+      },
+      "120": {
+        "filename": "HelloWorld.code",
+        "line": 88
+      },
+      "136": {
+        "filename": "HelloWorld.code",
+        "line": 89
+      },
+      "152": {
+        "filename": "HelloWorld.code",
+        "line": 90
+      },
+      "168": {
+        "filename": "HelloWorld.code",
+        "line": 91
+      },
+      "192": {
+        "filename": "HelloWorld.code",
+        "line": 92
+      },
+      "208": {
+        "filename": "HelloWorld.code",
+        "line": 93
+      },
+      "216": {
+        "filename": "HelloWorld.code",
+        "line": 94
+      },
+      "232": {
+        "filename": "HelloWorld.code",
+        "line": 96
+      }
+    },
+    "ca4122d4fe5432f97c572d1b3057221d65f1c2b1569b1bd83f8a5ade860878a9": {
+      "0": {
+        "filename": "HelloWorld.code",
+        "line": 20
+      },
+      "8": {
+        "filename": "HelloWorld.code",
+        "line": 21
+      },
+      "24": {
+        "filename": "HelloWorld.code",
+        "line": 22
+      },
+      "48": {
+        "filename": "../contracts/HelloWorld.tsol",
+        "line": 7
+      },
+      "56": {
+        "filename": "HelloWorld.code",
+        "line": 26
+      },
+      "72": {
+        "filename": "HelloWorld.code",
+        "line": 29
+      },
+      "80": {
+        "filename": "HelloWorld.code",
+        "line": 30
+      },
+      "96": {
+        "filename": "HelloWorld.code",
+        "line": 31
+      },
+      "104": {
+        "filename": "HelloWorld.code",
+        "line": 32
+      },
+      "112": {
+        "filename": "HelloWorld.code",
+        "line": 33
+      },
+      "128": {
+        "filename": "HelloWorld.code",
+        "line": 34
+      },
+      "144": {
+        "filename": "HelloWorld.code",
+        "line": 35
+      },
+      "152": {
+        "filename": "HelloWorld.code",
+        "line": 36
+      },
+      "160": {
+        "filename": "HelloWorld.code",
+        "line": 37
+      },
+      "168": {
+        "filename": "HelloWorld.code",
+        "line": 38
+      },
+      "192": {
+        "filename": "HelloWorld.code",
+        "line": 39
+      },
+      "200": {
+        "filename": "HelloWorld.code",
+        "line": 40
+      },
+      "248": {
+        "filename": "HelloWorld.code",
+        "line": 41
+      },
+      "272": {
+        "filename": "HelloWorld.code",
+        "line": 42
+      },
+      "280": {
+        "filename": "HelloWorld.code",
+        "line": 43
+      },
+      "288": {
+        "filename": "HelloWorld.code",
+        "line": 44
+      },
+      "296": {
+        "filename": "HelloWorld.code",
+        "line": 45
+      },
+      "312": {
+        "filename": "HelloWorld.code",
+        "line": 47
+      },
+      "320": {
+        "filename": "HelloWorld.code",
+        "line": 48
+      },
+      "328": {
+        "filename": "HelloWorld.code",
+        "line": 50
+      },
+      "336": {
+        "filename": "HelloWorld.code",
+        "line": 51
+      },
+      "352": {
+        "filename": "HelloWorld.code",
+        "line": 54
+      }
+    },
+    "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
+      "0": {
+        "filename": "HelloWorld.code",
+        "line": 140
+      },
+      "16": {
+        "filename": "HelloWorld.code",
+        "line": 141
+      }
+    },
+    "f2b6fee906959c240bebf2ae6014f1d4be66e2dc6e03df25aa5ea29205d3e249": {
+      "0": {
+        "filename": "HelloWorld.code",
+        "line": 68
+      },
+      "16": {
+        "filename": "HelloWorld.code",
+        "line": 69
+      },
+      "24": {
+        "filename": "HelloWorld.code",
+        "line": 70
+      },
+      "40": {
+        "filename": "HelloWorld.code",
+        "line": 71
+      },
+      "56": {
+        "filename": "HelloWorld.code",
+        "line": 72
+      },
+      "72": {
+        "filename": "HelloWorld.code",
+        "line": 73
+      },
+      "80": {
+        "filename": "HelloWorld.code",
+        "line": 74
+      },
+      "88": {
+        "filename": "HelloWorld.code",
+        "line": 75
+      },
+      "104": {
+        "filename": "HelloWorld.code",
+        "line": 76
+      }
+    }
+  }
+}

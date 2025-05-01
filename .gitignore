@@ -1,0 +1,58 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Build files (optional, since you may want to commit build artifacts for Venom contracts)
+# Uncomment if you prefer not to commit build files
+# build/
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Locklift specific
+.locklift/
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.swp
+*.swo
+.tmp/
+temp/
+
+# Cache
+.cache/
+.npm/
+
+# Secret keys and mnemonics (CRITICAL - make sure key files are ignored)
+*.key
+mnemonic.txt
+keys.txt
+
+# Hardhat artifacts (if using hardhat alongside locklift)
+artifacts/
+cache/
+typechain/

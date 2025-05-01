@@ -1,0 +1,10 @@
+pragma ever-solidity >= 0.61.2;
+pragma AbiHeader expire;
+pragma AbiHeader pubkey;
+
+
+contract HelloWorld {
+    function printHello() public pure returns (string) {
+        return "Hello, World!";
+    }
+}
