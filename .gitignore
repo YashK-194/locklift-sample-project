@@ -56,3 +56,5 @@ keys.txt
 artifacts/
 cache/
 typechain/
+
+.gitignore
